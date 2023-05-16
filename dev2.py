@@ -1,1 +1,1 @@
-print("dev7 is better")
+print("i am developer 7 and i am number one")
